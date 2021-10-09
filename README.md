@@ -1,1 +1,3 @@
 I tried...
+
+Feel free to make your own pull request for custom tips!
